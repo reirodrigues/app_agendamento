@@ -1,4 +1,4 @@
-package com.example.app_agendamento
+package dev.reirodrigues.app_agendamento
 
 import io.flutter.embedding.android.FlutterActivity
 
